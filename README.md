@@ -15,6 +15,8 @@
 | **阿里** | [Lingma](https://lingma.aliyun.com/download) | 国内：[Lingma](https://lingma.aliyun.com/download) / 海外：[Qoder](https://qoder.com/) | [Qwen Code](https://github.com/QwenLM/qwen-code) |
 | **百度** | [文心快码（Baidu Comate）](https://comate.baidu.com/zh/) | [Comate AI IDE](https://comate.baidu.com/zh/download) | [Zulu-CLI](https://comate.baidu.com/zh/page/i22mn1rh6ca) |
 | **华为** | [CodeArts Doer for Coding](https://marketplace.visualstudio.com/items?itemName=HuaweiCloud.vscode-codebot) | DevEco Studio + [CodeGenie](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/ide-codegenie) | — |
+| **腾讯** | [CodeBuddy](https://www.codebuddy.ai/) | [CodeBuddy IDE](https://www.codebuddy.ai/) | [CodeBuddy CLI](https://www.codebuddy.ai/) |
+| **OpenCode** | — | — | [OpenCode](https://github.com/anomalyco/opencode) |
 
 ## 按形态分类
 
@@ -32,6 +34,7 @@
 | Lingma | 阿里 | [官网](https://lingma.aliyun.com/download) |
 | 文心快码（Baidu Comate） | 百度 | [官网](https://comate.baidu.com/zh/) |
 | CodeArts Doer for Coding | 华为 | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HuaweiCloud.vscode-codebot) |
+| CodeBuddy | 腾讯 | [官网](https://www.codebuddy.ai/) |
 
 ### 🖥️ IDE
 
@@ -48,6 +51,7 @@
 | Qoder（海外） | 阿里 | [官网](https://qoder.com/) |
 | Comate AI IDE | 百度 | [官网](https://comate.baidu.com/zh/download) |
 | DevEco Studio + CodeGenie | 华为 | [文档](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/ide-codegenie) |
+| CodeBuddy IDE | 腾讯 | [官网](https://www.codebuddy.ai/) |
 
 ### ⌨️ CLI
 
@@ -64,6 +68,8 @@
 | trae-agent | 字节跳动 | [GitHub](https://github.com/bytedance/trae-agent) |
 | Qwen Code | 阿里 | [GitHub](https://github.com/QwenLM/qwen-code) |
 | Zulu-CLI | 百度 | [官网](https://comate.baidu.com/zh/page/i22mn1rh6ca) |
+| CodeBuddy CLI | 腾讯 | [官网](https://www.codebuddy.ai/) |
+| OpenCode | OpenCode | [GitHub](https://github.com/anomalyco/opencode) |
 
 
 
